@@ -161,3 +161,8 @@ Jackson Eyamu - [Github](https://github.com/jacksoneyamu)
 
 ## License
 Public Domain. No copy write protection. 
+
+  
+This is the diagram
+  
+  ![image](https://user-images.githubusercontent.com/88405403/163405489-806f9434-4da8-4091-8505-a0262213d753.png)
