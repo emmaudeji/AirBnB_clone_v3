@@ -157,7 +157,9 @@ No known bugs at this time.
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang) <br>
 Emmanuel Udeji - [Github](https://github.com/emmaudeji) / [Twitter](https://twitter.com/emmaudeji) <br>
-Jackson Eyamu - [Github](https://github.com/jacksoneyamu)
+Jackson Eyamu - [Github](https://github.com/jacksoneyamu) <br>
+  
+#### The [codebase](https://github.com/alexaorrico/AirBnB_clone_v2.git) used.
 
 ## License
 Public Domain. No copy write protection. 
